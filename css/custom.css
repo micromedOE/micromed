@@ -10,7 +10,11 @@
 .main{
   padding: 2em 0;
 }
+.main-notFound{
 
+  margin-top: 1.5em;
+  height: 40vh;
+}
 
 .certification-col{
   display: flex;
